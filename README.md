@@ -1,2 +1,3 @@
-# dev4s-webclient
-This is something I wrote back in the days. Simple auto-webscrapper (as I remember this was it purpose). It isn't finished, and I think it will not be finished :).
+# (Unkown date) Dev4s.WebClient
+
+This library was written (but not finished) in my freelancing days. It's main purpose was to help me with downloading needed links, images, etc. Sadly - work stopped somwhere in the middle, didn't got enough of time to finish it. Maybe someday.
